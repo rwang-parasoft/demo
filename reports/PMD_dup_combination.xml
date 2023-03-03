@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pmd-cpd>
    <duplication>
-      <file column="1" endcolumn="10" endline="60" line="50"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsBuildProcess.java"/>
-      <file column="1" endcolumn="10" endline="30" line="20"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsBuildProcess.java"/>
+      <file column="1" endcolumn="10" endline="3" line="3"
+            path="src/main/java/com/example/demo/dup1/DupClass.java"/>
+      <file column="1" endcolumn="10" endline="3" line="3"
+            path="src/main/java/com/example/demo/dup2/DupClass.java"/>
    </duplication>
-   <duplication>
-      <file column="2" endcolumn="15" endline="3" line="1"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsAgent.java"/>
-      <file column="2" endcolumn="15" endline="8" line="6"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsAgent.java"/>
-      <file column="2" endcolumn="15" endline="12" line="10"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsAgent.java"/>
-   </duplication>
-   
-   <duplication>
-      <file column="3" endcolumn="15" endline="16" line="15"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsAgent.java"/>
-      <file column="2" endcolumn="15" endline="18" line="17"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindings.java"/>
-      <file column="2" endcolumn="15" endline="20" line="19"
-            path="D:/RWorkspaces/project-workspace/CICD/reportForParaFindings/ParasoftFindingsAgent.java"/>
-   </duplication>
+ 
 </pmd-cpd>
